@@ -1,0 +1,26 @@
+h1 {
+    background-color:antiquewhite;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+}
+
+.recipe-list {
+    font-size: 25px;
+}
+
+ul a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: black;
+}
